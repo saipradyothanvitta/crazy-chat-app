@@ -1,0 +1,5 @@
+# Ignore cache jsons of node modules.
+./client/node_modules/.cache/
+*.cmd
+*.ps1
+.vscode/
