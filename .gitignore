@@ -3,3 +3,4 @@
 *.cmd
 *.ps1
 .vscode/
+*/node_modules/
