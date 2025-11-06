@@ -4,3 +4,4 @@
 *.ps1
 .vscode/
 */node_modules/
+package-lock.json
