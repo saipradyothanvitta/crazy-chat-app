@@ -50,7 +50,7 @@ Prerequisites
 Node.js and npm installed on your machine.
 
 1. Clone the Repository
-git clone [https://github.com/YourUsername/crazy-chat-app.git](https://github.com/YourUsername/crazy-chat-app.git)
+git clone [https://github.com/saipradyothanvitta/crazy-chat-app](https://github.com/saipradyothanvitta/crazy-chat-app)
 cd crazy-chat-app
 
 2. Set Up the Backend Server
